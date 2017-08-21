@@ -81,7 +81,7 @@ purpose:
     url: 'mailto:Pack860HB@Gmail.com'
     label: 'E mail us for further information:'
   - type: internal
-    label: 'Start here:'
+    label: 'Our mission:'
     item: 452e9070-f7fd-4bf0-a4a6-6f1210151281
 github: true
 favicon: >-
