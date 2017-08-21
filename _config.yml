@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Pack860HB
+name: Pack860HB.org
 layout_spectrum: 0.2627110332250595
 typography_spectrum: 0.9299557730555534
 color:
@@ -19,56 +19,7 @@ color:
     - '#2D6281'
     - '#37BEF5'
     - '#2C4B62'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/835efdd1-afe2-4f18-8fa0-2fdce6fb0e01.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/835efdd1-afe2-4f18-8fa0-2fdce6fb0e01.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f57278d-c072-4377-98a9-f40941d8edb2.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f57278d-c072-4377-98a9-f40941d8edb2.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 title: Hermosa Beach Pack 860
 description: 'Cub Scouts: Prepared for Life'
 logo: >-
