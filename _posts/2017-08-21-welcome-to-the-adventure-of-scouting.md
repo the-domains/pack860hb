@@ -9,16 +9,18 @@ description: >-
   achievements that serve the Community, Pack and individual.  Each scout is
   empowered to develop, create, achieve and learn via the time honored
   traditions of the Boy Scouts of America. 
-dateModified: '2017-08-21T20:45:55.243Z'
-datePublished: '2017-08-21T20:45:55.827Z'
+dateModified: '2017-08-21T21:29:23.620Z'
+datePublished: '2017-08-21T21:29:24.205Z'
 title: 'Welcome to the Adventure of Scouting:'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-21-welcome-to-the-adventure-of-scouting.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-21T20:45:11.009Z'
-_type: Blurb
+url: welcome-to-the-adventure-of-scouting/index.html
+_type: Article
 
 ---
 # Welcome to the Adventure of Scouting:
