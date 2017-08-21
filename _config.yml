@@ -1,3 +1,16 @@
+layout_spectrum: 0.8885373633393631
+typography_spectrum: 0.7629844482415494
+color:
+  brandStrength: 0.8526376414121968
+  lightness: 0.19731231532483776
+  saturation: 0.9492942182799929
+  rhythmicContrast: 0.1055907079857765
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Pack860HB.org
-layout_spectrum: 0.2627110332250595
-typography_spectrum: 0.9299557730555534
-color:
-  brandStrength: 0.014863267308101058
-  lightness: 0.21879683854058385
-  saturation: 0.891944560687989
-  rhythmicContrast: 0.6889065678697079
-  brandColors:
-    - '#2E3649'
-    - '#2A87B0'
-    - '#2D6281'
-    - '#37BEF5'
-    - '#2C4B62'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
