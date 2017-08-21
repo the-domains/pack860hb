@@ -1,0 +1,37 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Pack860HB
+layout_spectrum: 0.2627110332250595
+typography_spectrum: 0.9299557730555534
+color:
+  brandStrength: 0.014863267308101058
+  lightness: 0.21879683854058385
+  saturation: 0.891944560687989
+  rhythmicContrast: 0.6889065678697079
+  brandColors:
+    - '#2E3649'
+    - '#2A87B0'
+    - '#2D6281'
+    - '#37BEF5'
+    - '#2C4B62'
+content: []
+title: Hermosa Beach Pack 860
+description: 'Cub Scouts: Prepared for Life'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fe94d09-4c25-4ecb-a687-aa80d769a634.jpg
+author:
+  name: Son of a Network Studio & Consultancy
+  email: rknyman@Sonofa.Net
+  url: 'https://Sonofa.Net'
+purpose:
+  - type: contact
+    url: 'mailto:Pack860HB@Gmail.com'
+    label: 'For further information:'
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae6c449-a83d-4222-9055-a3b48bd3dd81.png
