@@ -9,8 +9,8 @@ description: >-
   make for life and a parent’s proud smile. These are invaluable experiences
   that can be had in Scouting. These are life lessons that transform today’s Cub
   Scouts into tomorrow’s Boy Scouts.
-dateModified: '2017-08-22T15:42:28.346Z'
-datePublished: '2017-08-22T15:42:28.822Z'
+dateModified: '2017-08-22T15:43:32.253Z'
+datePublished: '2017-08-22T15:43:32.909Z'
 title: 'Cub Scouts: Do Your Best. Have Fun Doing It.'
 author: []
 publisher: {}
@@ -21,8 +21,7 @@ datePublishedOriginal: '2017-08-21T23:20:50.248Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8448ab19-03ba-4068-9bea-23f0215b4e67.png)
-
 ## Cub Scouts: Do Your Best. Have Fun Doing It.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8448ab19-03ba-4068-9bea-23f0215b4e67.png)
 
 The best way to find out what you do best is to do it. Swing a bat. Pitch a tent. Build a pinewood derby(r) car. Cub Scouts are at that magical age where everything is new and possible and, most important, fun. They live in a world of "firsts"---first home run, first campfire, first checkered flag---where their game plan is their imagination. Their most valuable reward is the friends they make for life and a parent's proud smile. These are invaluable experiences that can be had in Scouting. These are life lessons that transform today's Cub Scouts into tomorrow's Boy Scouts.
