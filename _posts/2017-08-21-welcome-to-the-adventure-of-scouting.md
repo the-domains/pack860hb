@@ -9,8 +9,8 @@ description: >-
   achievements that serve the Community, Pack and individual. Each scout is
   empowered to develop, create, achieve and learn via the time honored
   traditions of the Boy Scouts of America.
-dateModified: '2017-08-22T14:49:53.692Z'
-datePublished: '2017-08-22T14:49:54.159Z'
+dateModified: '2017-08-22T15:43:52.960Z'
+datePublished: '2017-08-22T15:43:53.387Z'
 title: Welcome to the Adventure of Scouting!
 author: []
 publisher: {}
@@ -23,9 +23,8 @@ url: welcome-to-the-adventure-of-scouting/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7fc2bcc-bf43-4380-b22c-45d166d40f02.jpg)
-
 ## Welcome to the Adventure of Scouting!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7fc2bcc-bf43-4380-b22c-45d166d40f02.jpg)
 
 Pack 860 is a chartered Cub Scout affiliate of the Boy Scouts of America sponsored by the Hermosa Beach Rotary Club. We strive to enrich each boy's life with purpose and values that reflect the ideals of Scouting and the idyllic Hermosa Beach lifestyle. We weave fun, education, adventure and age appropriate responsibility into a tapestry of group and individual achievements that serve the Community, Pack and individual. Each scout is empowered to develop, create, achieve and learn via the time honored traditions of the Boy Scouts of America.
 
