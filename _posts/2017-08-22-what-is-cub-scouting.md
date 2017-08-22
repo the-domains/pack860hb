@@ -6,8 +6,8 @@ description: >-
   learn to tie knots, set up a tent, or shoot a bow and arrow (archery). Have
   you ever cooked a meal on a campfire? Sent a secret code to a buddy? Built a
   birdhouse? Hiked? Earn rewards for doing these things in Cub Scouts.
-dateModified: '2017-08-22T13:35:08.288Z'
-datePublished: '2017-08-22T13:35:08.762Z'
+dateModified: '2017-08-22T13:46:16.711Z'
+datePublished: '2017-08-22T13:46:16.964Z'
 title: What Is Cub Scouting?
 author: []
 publisher: {}
