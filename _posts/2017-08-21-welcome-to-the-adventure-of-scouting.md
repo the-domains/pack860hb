@@ -9,9 +9,9 @@ description: >-
   achievements that serve the Community, Pack and individual. Each scout is
   empowered to develop, create, achieve and learn via the time honored
   traditions of the Boy Scouts of America.
-dateModified: '2017-08-22T02:27:52.865Z'
-datePublished: '2017-08-22T02:27:53.548Z'
-title: 'Welcome to the Adventure of Scouting:'
+dateModified: '2017-08-22T03:00:49.657Z'
+datePublished: '2017-08-22T03:00:50.290Z'
+title: Welcome to the Adventure of Scouting!
 author: []
 publisher: {}
 via: {}
@@ -23,7 +23,7 @@ url: welcome-to-the-adventure-of-scouting/index.html
 _type: Article
 
 ---
-## Welcome to the Adventure of Scouting:
+## Welcome to the Adventure of Scouting!
 
 Pack 860 is a chartered Cub Scout affiliate of the Boy Scouts of America sponsored by the Hermosa Beach Rotary Club. We strive to enrich each boy's life with purpose and values that reflect the ideals of Scouting and the idyllic Hermosa Beach lifestyle. We weave fun, education, adventure and age appropriate responsibility into a tapestry of group and individual achievements that serve the Community, Pack and individual. Each scout is empowered to develop, create, achieve and learn via the time honored traditions of the Boy Scouts of America.
 
@@ -31,8 +31,9 @@ But mostly Cub Scouts is FUN! Den meetings, campouts, pack meetings, pinewood de
 
 We are a 100% non-profit, volunteer run organization that prides itself on maintaining the highest standards of safety and excellence for each and every member. Our leadership is trained and certified by the BSA.
 
-To learn more, please fill out this webform. Your privacy is rigorously protected and we will NOT contact you without permission.
+To learn more, [please fill out this webform.][0] Your privacy is rigorously protected and we will NOT contact you without permission.
 
-You may also visit: [Pack860 on Scoutlander.com][0]
+You may also visit Pack 860 [on Scoutlander.com][1]
 
-[0]: https://scoutlander.com/publicsite/unithome.aspx?UID=19278 "Pack 860's Scoutlander site"
+[0]: https://docs.google.com/forms/d/e/1FAIpQLSfsyb7MamLVRMVXkgEhgajQCJDygNzzWWhqPGEhHmbvXYISAg/viewform?usp=sf_link "New Scout Inquiry Form"
+[1]: https://scoutlander.com/publicsite/unithome.aspx?UID=19278 "Pack 860 Scoutlander page"
