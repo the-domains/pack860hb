@@ -77,9 +77,10 @@ author:
   email: rknyman@Sonofa.Net
   url: 'https://Sonofa.Net'
 purpose:
-  - type: internal
-    label: 'Our mission:'
-    item: 452e9070-f7fd-4bf0-a4a6-6f1210151281
+  - type: external
+    label: Get Started HERE! New Scout Inquiry Form
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSfsyb7MamLVRMVXkgEhgajQCJDygNzzWWhqPGEhHmbvXYISAg/viewform?usp=sf_link
   - type: contact
     url: 'mailto:Pack860HB@gmail.com'
     label: 'Email us for more details:'
