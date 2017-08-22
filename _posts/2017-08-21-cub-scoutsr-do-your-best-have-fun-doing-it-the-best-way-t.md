@@ -9,8 +9,8 @@ description: >-
   make for life and a parent’s proud smile. These are invaluable experiences
   that can be had in Scouting. These are life lessons that transform today’s Cub
   Scouts into tomorrow’s Boy Scouts.
-dateModified: '2017-08-22T02:27:38.536Z'
-datePublished: '2017-08-22T02:27:39.278Z'
+dateModified: '2017-08-22T13:46:16.711Z'
+datePublished: '2017-08-22T13:46:16.962Z'
 title: 'Cub Scouts: Do Your Best. Have Fun Doing It.'
 author: []
 publisher: {}
