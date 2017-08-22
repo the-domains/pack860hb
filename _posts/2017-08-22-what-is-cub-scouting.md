@@ -6,18 +6,20 @@ description: >-
   learn to tie knots, set up a tent, or shoot a bow and arrow (archery). Have
   you ever cooked a meal on a campfire? Sent a secret code to a buddy? Built a
   birdhouse? Hiked? Earn rewards for doing these things in Cub Scouts.
-dateModified: '2017-08-22T13:32:30.965Z'
-datePublished: '2017-08-22T13:32:31.672Z'
+dateModified: '2017-08-22T13:35:08.288Z'
+datePublished: '2017-08-22T13:35:08.762Z'
 title: What Is Cub Scouting?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-22-what-is-cub-scouting.md
 starred: false
 datePublishedOriginal: '2017-08-22T13:32:31.672Z'
-sourcePath: _posts/2017-08-22-what-is-cub-scouting.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1befe23-653f-424e-863e-e095d07435f1.jpg)
+
 # What Is Cub Scouting?
 
 Cub Scouting is fun! No matter what grade you are in, first through fifth, it can be a blast. Do you like to learn by doing? This is just the place. You can learn to tie knots, set up a tent, or shoot a bow and arrow (archery). Have you ever cooked a meal on a campfire? Sent a secret code to a buddy? Built a birdhouse? Hiked? Earn rewards for doing these things in Cub Scouts.
@@ -34,7 +36,7 @@ The Cub Scout pack belongs to a church, a school, or some other group of people 
 
 Have you been to the local police station and talked to the policemen on duty? Or visited the fire station and sat in the driver's seat of the pumper truck? Or visited the local TV station and sat in the news anchor's chair? These are some of the places you might go with your den or pack.
 
-You might also build a pinewood derby car and race it on the track, build a sailboat or trimaran and race it in the raingutter regatta, or build a spaceship and race it to the stars in the pack space derby. 
+You might also build a pinewood derby car and race it on the track, build a sailboat or trimaran and race it in the raingutter regatta, or build a spaceship and race it to the stars in the pack space derby.
 
 ## Cub Scouts Earn Awards
 
@@ -43,7 +45,7 @@ Each time you complete an accomplishment or learn a new skill, you will be rewar
 **BECOME A CUB SCOUT WITH PACK 860!!**
 
 **SAFETY**  
-Safety is the top priority of scouting in Pack 860\.  Pack 860 leaders and members strictly adhere to the Boy Scouts of America policy regarding Youth Protection and attend a vigorous training program to ensure that all Pack 860 Cub Scouts are kept safe at all times.
+Safety is the top priority of scouting in Pack 860\. Pack 860 leaders and members strictly adhere to the Boy Scouts of America policy regarding Youth Protection and attend a vigorous training program to ensure that all Pack 860 Cub Scouts are kept safe at all times.
 
 **FUN, FUN, FUN**  
 Pack 860 Cub Scouts have a LOT of FUN!They go camping, build and race pinewood derby cars, learn how to tie knots, learn archery and many other fun skills.They have overnighters aboard aircraft carriers, camp overnight at Wilderness Park, have scavenger hunts, play games, attend summer camp at Lake Arrowhead, watch and perform skits and much, much more.  
@@ -58,6 +60,6 @@ Pack 860 Cub Scouts learn respect for our country by learning about our past and
 **ENVIRONMENTAL RESPONSIBILITY**  
 Pack 860 Cub Scouts learn about our planet and how to care for it.Pack 860 Cub Scouts participate in Beach Clean Up Day to help keep our local Hermosa Beach waterfront clean and safe.Scouts learn that they are responsible to 'take only photographs' and 'leave nothing but footprints' when they explore nature.  
 **SELF RELIANCE**  
-Pack 860 Cub Scouts gain an additional sense of  accomplishment for their achievements as they raise money for their programs by harvesting and selling mistletoe, by selling popcorn and through other fundraisers.This also teaches salesmanship and the benefits of hard work.Scouts also learn that preparing and cooking their own meals can be fun.  
+Pack 860 Cub Scouts gain an additional sense of accomplishment for their achievements as they raise money for their programs by harvesting and selling mistletoe, by selling popcorn and through other fundraisers.This also teaches salesmanship and the benefits of hard work.Scouts also learn that preparing and cooking their own meals can be fun.  
 **FRIENDS**  
 AND LAST BUT NOT LEAST!!...Pack 860 Cub Scouts live in Hermosa Beach and scouting allows the Cubs to grow their school-based circle of friends.
