@@ -9,8 +9,8 @@ description: >-
   achievements that serve the Community, Pack and individual. Each scout is
   empowered to develop, create, achieve and learn via the time honored
   traditions of the Boy Scouts of America.
-dateModified: '2017-08-22T03:00:49.657Z'
-datePublished: '2017-08-22T03:00:50.290Z'
+dateModified: '2017-08-22T03:03:01.614Z'
+datePublished: '2017-08-22T03:03:02.315Z'
 title: Welcome to the Adventure of Scouting!
 author: []
 publisher: {}
@@ -32,6 +32,7 @@ But mostly Cub Scouts is FUN! Den meetings, campouts, pack meetings, pinewood de
 We are a 100% non-profit, volunteer run organization that prides itself on maintaining the highest standards of safety and excellence for each and every member. Our leadership is trained and certified by the BSA.
 
 To learn more, [please fill out this webform.][0] Your privacy is rigorously protected and we will NOT contact you without permission.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7fc2bcc-bf43-4380-b22c-45d166d40f02.jpg)
 
 You may also visit Pack 860 [on Scoutlander.com][1]
 
