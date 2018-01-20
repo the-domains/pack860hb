@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'September 2017:'
-dateModified: '2017-09-02T05:24:56.880Z'
-datePublished: '2017-09-02T05:24:57.622Z'
+dateModified: '2018-01-20T19:18:44.069Z'
+datePublished: '2018-01-20T19:18:44.594Z'
 title: 'This year’s highlight events:'
 author: []
 publisher: {}
@@ -47,7 +47,7 @@ Pinewood Derby --- let the racing begin! A timeless tradition that thrills every
 
 _**March 2018:**_
 
-Build a Robot! --- Day trip to a robotic hack-a-thon.
+Saint Patty's Day Parade. Slip some green onto your uniform and march in Hermosa Beach's annual St. Patty's Day Parade!
 
 _**April 2018:**_
 
