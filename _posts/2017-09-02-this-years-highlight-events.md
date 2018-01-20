@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Scout Night @ Dodger Stadium — Egg Drop & Dodger game
-dateModified: '2018-01-20T19:25:32.350Z'
-datePublished: '2018-01-20T19:25:33.292Z'
+dateModified: '2018-01-20T19:26:09.467Z'
+datePublished: '2018-01-20T19:26:09.902Z'
 title: 'The Highlight Events:'
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-09-02T05:24:57.622Z'
 _type: Blurb
 
 ---
-## The Highlight Events:
+# The Highlight Events:
 
 ### _**September 2017:**_
 
