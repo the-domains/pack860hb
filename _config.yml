@@ -78,9 +78,8 @@ author:
   url: 'https://Sonofa.Net'
 purpose:
   - type: external
-    label: Get Started HERE! New Scout Inquiry Form
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSfsyb7MamLVRMVXkgEhgajQCJDygNzzWWhqPGEhHmbvXYISAg/viewform?usp=sf_link
+    label: 'https://goo.gl/forms/xVx5anirL98sBCYC3'
+    url: 'https://goo.gl/forms/xVx5anirL98sBCYC3'
   - type: contact
     url: 'mailto:Pack860HB@gmail.com'
     label: Have a question? Email us!
