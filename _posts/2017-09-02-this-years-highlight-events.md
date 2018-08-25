@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Back to School Picnic @ Hermosa View School — Come check out our table
-dateModified: '2018-08-25T12:28:17.308Z'
-datePublished: '2018-08-25T12:28:18.428Z'
+dateModified: '2018-08-25T12:28:18.226Z'
+datePublished: '2018-08-25T12:28:18.848Z'
 title: 'The Highlight Events:'
 author: []
 publisher: {}
