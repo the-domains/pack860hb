@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Back to School Picnic @ Hermosa View School — Come check out our table
-dateModified: '2018-08-25T12:26:21.571Z'
-datePublished: '2018-08-25T12:26:22.336Z'
+dateModified: '2018-08-25T12:28:17.308Z'
+datePublished: '2018-08-25T12:28:18.428Z'
 title: 'The Highlight Events:'
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ Winter Carnival --- Pack meeting with treats, games and a surprise visit
 
 ### _**January 2019:**_
 
-Overnighter --- A super fun overnight trip and behind the scenes tour of a Southland's Point of Interest. In previous years we have been to the USS IOWA, the USS MIDWAY, and the L. A. Zoo
+Overnighter --- A super fun overnight trip and behind the scenes tour of a Point of Interest. In previous years we have been to the USS IOWA, the USS MIDWAY, and the L. A. Zoo.
 
 ### _**February 2019:**_
 
